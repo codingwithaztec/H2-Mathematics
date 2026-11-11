@@ -7,7 +7,7 @@ Mathematics syllabus (9758).
 ## Topics
 - Basic differentiation
 - Implicit differentiation ( Started 11 Nov 2026, Done )
-- Parametric differentiation 
+- Parametric differentiation ( Started 11 Nov 2026, Done )
 - Higher-order derivatives
 - Applications of differentiation
 
