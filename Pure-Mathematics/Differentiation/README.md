@@ -20,3 +20,10 @@ See Notes.md
 
 ## Practice
 See Practice.md
+
+## Study Materials
+
+- [RI Chapter 6A — Differentiation Techniques]
+- https://grail.moe/library/25143/ri-differentiation-c6a-lect-notes
+- [RI Tutorial C6A — Section A]
+- https://grail.moe/library/25141/ri-differentiation-c6a-tut-sect-a-soln
