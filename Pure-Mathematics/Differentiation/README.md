@@ -16,10 +16,10 @@ Mathematics syllabus (9758).
 - RI Tutorial C6A
 
 ## Notes
-See Notes.md
+See Notes/
 
 ## Practice
-See Practice.md
+See Practice/
 
 ## Study Materials
 
